@@ -1,4 +1,5 @@
 FTP
+
 Transmisión de archivos
 Hosting barato normal --> /public_html/ <-- FTP
 	index.php
@@ -8,6 +9,7 @@ www.fuckencio.com
 
 SISTEMA DE CONTROL DE VERSIONES 
 
+FTP no es un sistema de control de versiones.
 SVN: Subversion / Mercurial / TFS / CVS / GIT
 Github
 1. Red social de programadores
